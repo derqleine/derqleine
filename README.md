@@ -5,8 +5,8 @@
  <a href="https://instagram.com/derqleine" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "gabrielde.1503@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  #
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derqleine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derqleine&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derqleine&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derqleine&layout=compact&langs_count=8&theme=dracula"/>
 
 ### Tecnologias que utilizo:
  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=&logoColor=white)](#)
